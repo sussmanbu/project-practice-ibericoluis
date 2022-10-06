@@ -1,5 +1,7 @@
 # MA[46]15 Final Project
 
+Luis
+
 **Make sure to read the full README file below, all pages and posts on your initial site, and look through the files in the `content` folder and the `config.toml` file.**
 
 For your final project, your team will be 
